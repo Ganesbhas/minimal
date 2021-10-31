@@ -1,5 +1,6 @@
 title: <p align="center"> Bhaskar M </p>
-logo: /assets/img/Capture.png
+
+<center><img src="assets/img/logo.png.jpg"/></center>
 
 description:
   <p align="center">
@@ -8,7 +9,4 @@ description:
 I am working as a Bi tester for 3.5 years
   <br>
   </p>
-
-
-
 theme: jekyll-theme-minimal
